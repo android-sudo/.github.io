@@ -1,17 +1,18 @@
 <div id="header" align="center"> ## Hi there 👋 </div>
-<div id="header" align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[ </div>
-## About Android Sudo 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[
+<div id="header" align="center"> ## About Android Sudo </div>
 
 We're a dedicated team of Android wizards, passionate about unlocking your device's full potential. We believe in pushing boundaries, improving performance, and giving you the freedom to customize your Android experience.
 
-## Supported Devices 📱
+<div id="header" align="center"> ## Supported Devices 📱 </div>
 
-Android Sudo currently supports the following devices:
+<div id="header" align="center"> Android Sudo currently supports the following devices:
 
 1. **Lancelot / Xiaomi Redmi 9**
 2. **Series MTK**
 3. **MT67XX**
+</div>
 
 ## Get Started 🚀
 
