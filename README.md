@@ -1,7 +1,9 @@
 <div id="header" align="center"> ## Hi there 👋 </div>
-
+<div id="header" align="center">
+  
 .[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)]
 
+</div>
 <div id="header" align="center"> ## About Android Sudo </div>
 
 We're a dedicated team of Android wizards, passionate about unlocking your device's full potential. We believe in pushing boundaries, improving performance, and giving you the freedom to customize your Android experience.
