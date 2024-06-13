@@ -1,3 +1,7 @@
+## Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 # Android Sudo ⚡ Android Development
 
 Welcome to Android Sudo, where your Android experience gets supercharged! This repository is your one-stop shop for custom kernels and ROMs designed to enhance and optimize your Android journey.
@@ -43,8 +47,6 @@ Special thanks to the open-source community and all the talented developers whos
 
 **# Android Sudo #Android Global** 
 
-
-## Hi there 👋
 
 <!--
 **android-sudo/android-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
