@@ -4,6 +4,11 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ## About Android Sudo 
 
 We're a dedicated team of Android wizards, passionate about unlocking your device's full potential. We believe in pushing boundaries, improving performance, and giving you the freedom to customize your Android experience.
