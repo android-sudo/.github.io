@@ -6,8 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 </div>
-## About Me
-
 My name is Alexey - I am an enthusiastic Android developer, trying to unlock the full potential of my device. I believe in expanding the boundaries and much more that the official aosp developers usually hide in the first beta releases, improving productivity and giving freedom in configuring your Android device, and much more.
 
  ## Supported Devices 📱 
