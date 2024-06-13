@@ -6,13 +6,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 </div>
-## About Android Sudo 
+## About Me
 
 My name is Alexey - I am an enthusiastic Android developer, trying to unlock the full potential of my device. I believe in expanding the boundaries and much more that the official aosp developers usually hide in the first beta releases, improving productivity and giving freedom in configuring your Android device, and much more.
 
  ## Supported Devices 📱 
 
- Android Sudo currently supports the following devices:
+ I currently support the following devices:
 
 1. **Lancelot / Xiaomi Redmi 9**
 2. **Series MTK**
@@ -47,15 +47,6 @@ Special thanks to the open-source community and all the talented developers whos
 **Elevate your Android experience with Android Sudo.**
 
 **# Android Sudo #Android Global** 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 </div>
