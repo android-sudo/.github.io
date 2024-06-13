@@ -1,7 +1,9 @@
+<div id="header" align="center">
+
 <div id="header" align="center"> ## Hi there 👋 </div>
 <div id="header" align="center">
   
-.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 </div>
 <div id="header" align="center"> ## About Android Sudo </div>
@@ -45,6 +47,9 @@ Special thanks to the open-source community and all the talented developers whos
 **Elevate your Android experience with Android Sudo.**
 
 **# Android Sudo #Android Global** 
+
+
+</div>
 
 
 <!--
