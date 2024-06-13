@@ -1,8 +1,5 @@
 ## Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[
-[![Typing SVG](https://camo.githubusercontent.com/877a8092be14292977ea29856461a1ec6c04f13b5644700ebd89ed29f4758a93/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f796f67657368776172616e30312f6769746875622d73746174732d7465726d696e616c2d7374796c65406c61746573742f7468656d65732f7562756e74752e737667)
 [
 ## About Android Sudo 
 
