@@ -9,10 +9,11 @@
 
 </div>
 
-
+---
 
 My name is Alexey - I am an enthusiastic Android developer, trying to unlock the full potential of my device. I believe in expanding the boundaries and much more that the official aosp developers usually hide in the first beta releases, improving productivity and giving freedom in configuring your Android device, and much more.
 
+---
 
 </div>
 
@@ -24,6 +25,7 @@ My name is Alexey - I am an enthusiastic Android developer, trying to unlock the
 2. **Series MTK**
 3. **MT67XX**
 
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CC9FF&multiline=true&random=true&width=435&lines=%23%23+Get+Started+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -32,11 +34,13 @@ My name is Alexey - I am an enthusiastic Android developer, trying to unlock the
 3. **Follow** our detailed instructions for flashing.
 4. **Join our community** on Telegram for support and discussions: [https://t.me/andexzuxiaomi](https://t.me/andexzuxiaomi)
 
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CC9FF&multiline=true&random=true&width=435&lines=Contributing+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-
 * **Telegram:** [https://t.me/andexzuxiaomi](https://t.me/andexzuxiaomi) 
+
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CC9FF&multiline=true&random=true&width=435&lines=%23%23+Credits+%F0%9F%99%8F)](https://git.io/typing-svg)
 
@@ -53,16 +57,6 @@ Special thanks to the open-source community and all the talented developers whos
 **android-sudo/android-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
