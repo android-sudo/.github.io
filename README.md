@@ -17,7 +17,7 @@ My name is Alexey - I am an enthusiastic Android developer, trying to unlock the
 
 </div>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CC9FF&multiline=true&random=true&width=435&lines=%23%23+Supported+Devices+%F0%9F%93%B1)](https://git.io/typing-svg)
+ <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CC9FF&multiline=true&random=true&width=435&lines=%23%23+Supported+Devices+%F0%9F%93%B1)](https://git.io/typing-svg)
 
  I currently support the following devices:
 
@@ -48,7 +48,7 @@ Special thanks to the open-source community and all the talented developers whos
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=655&height=100&lines=**Elevate+your+Android+experience+with+Android+Sudo.**;**+%23++%25++%40++%3D++%3F+%3E++%3C++!++%2B++**+;**%23+Android+Sudo+%23Android+Global**+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=655&height=100&lines=**Elevate+your+Android+experience+with+Android+Sudo.**;**+%23++%25++%40++%3D++%3F+%3E++%3C++!++%2B++**+;**%23+Android+Sudo+%23Android+Global**+)](https://git.io/typing-svg) -->
 
 
 
@@ -56,7 +56,7 @@ Special thanks to the open-source community and all the talented developers whos
 <!--
 **android-sudo/android-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
