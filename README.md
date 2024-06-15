@@ -1,9 +1,11 @@
 <div id="header" align="center">
+  
 ![android-sudo](https://raw.githubusercontent.com/android-sudo/.github.io/main/profile/sudo.png)
-</div>
+
 Android-Sudo-Global
 ===========
 
+</div>
 <div id="header" align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CC9FF&multiline=true&random=true&width=435&lines=!+Hi+there+android+sudo+global%F0%9F%91%8B)](https://git.io/typing-svg)
@@ -74,6 +76,5 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... -->
 
 ### Reach US
-
 - [Telegram Announcements/Device Updates](https://https://t.me/andexzuxiaomi)
 - [Telegram Discussion Chat](https://https://t.me/andexzuxiaomichat)
