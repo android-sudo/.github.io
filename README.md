@@ -1,5 +1,6 @@
+<div id="header" align="center">
 ![android-sudo](https://raw.githubusercontent.com/android-sudo/.github.io/main/profile/sudo.png)
-
+<div id="header" align="center">
 Android-Sudo-Global
 ===========
 
