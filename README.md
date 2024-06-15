@@ -77,7 +77,7 @@ Here are some ideas to get you started: -->
 <div id="header" align="center">
   
 ### Reach US
-- [Telegram Announcements/Device Updates](https://https://t.me/andexzuxiaomi)
-    - [Telegram Discussion Chat](https://https://t.me/andexzuxiaomichat)
+  [Telegram Announcements/Device Updates](https://https://t.me/andexzuxiaomi)
+     [Telegram Discussion Chat](https://https://t.me/andexzuxiaomichat)
 
 </div>
