@@ -1,3 +1,7 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
+
 title: [Android-Sudo-Global]
+
 description: [My name is Alexey - I am an enthusiastic Android developer, trying to unlock the full potential of my device. I believe in expanding the boundaries and much more that the official aosp developers usually hide in the first beta releases, improving productivity and giving freedom in configuring your Android device, and much more.]
+
+show_downloads: [false https://raw.githubusercontent.com/android-sudo/.github.io/main/profile/sudo.png]
