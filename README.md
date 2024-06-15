@@ -1,4 +1,4 @@
-Android-Sudo-Global: [https://raw.githubusercontent.com/android-sudo/.github.io/main/profile/sudo.png](https://raw.githubusercontent.com/android-sudo/.github.io/main/profile/sudo.png)
+![Android-Sudo-Global](https://raw.githubusercontent.com/android-sudo/.github.io/main/profile/sudo.png)
 
  : ===============================================
 
