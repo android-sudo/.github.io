@@ -1,6 +1,6 @@
-![Avdroid-Sudo-Global](https://raw.githubusercontent.com/android-sudo/.github.io/main/profile/sudo.png)
+![android-sudo](https://raw.githubusercontent.com/android-sudo/.github.io/main/profile/sudo.png)
 
-Avdroid-Sudo-Global
+Android-Sudo-Global
 ===========
 
 <div id="header" align="center">
